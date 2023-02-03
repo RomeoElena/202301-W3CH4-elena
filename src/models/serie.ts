@@ -6,5 +6,5 @@ export type SeriesStructure = {
   poster: string;
   watched: boolean;
   score: number;
-  emies: number;
+  emmies: number;
 };
