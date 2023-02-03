@@ -1,5 +1,7 @@
+// eslint-disable-next-line no-unused-vars
 import { SeriesStructure } from '../models/serie';
 
+// eslint-disable-next-line no-redeclare
 export type SeriesStructure = [
   {
     id: 1;
